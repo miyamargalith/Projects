@@ -1,0 +1,2 @@
+java -jar RunFile.jar encrypt Nadavkeystore nadavkey
+java -jar RunFile.jar decrypt Miyakeystore miyakey
